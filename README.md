@@ -1,2 +1,2 @@
-# awesome-ai-agents
-Collection of awesome AI Agents
+#Mini Projects to enhance AI agent and workflow understandings.
+
